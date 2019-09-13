@@ -3,4 +3,7 @@
 =======
 salut
 MODIF depuis gitup
+<<<<<<< HEAD
+>>>>>>> wcs
+=======
 >>>>>>> wcs
